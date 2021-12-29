@@ -1,4 +1,4 @@
-![Sample Screenshot of the App]("/public/image/screenshot.png")
+![Sample Screenshot of the App](public/image/screenshot.png)
 
 ## what is this project about ?
 
